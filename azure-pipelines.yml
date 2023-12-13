@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-name: AgentPoolAida
+pool: 
+  name: AgentPoolAida
 
 
 variables:
