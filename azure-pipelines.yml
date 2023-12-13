@@ -8,8 +8,7 @@ trigger:
 
 pool:
 name: AgentPoolAida
-demands:
-- Agent.Name -equals AgentAida
+
 
 variables:
   solution: '**/*.sln'
